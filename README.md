@@ -11,3 +11,6 @@ Currently provides information for a "dividend stripping" strategy - outputs com
 about their franking percentage, dividend yield.
 Also calculates a 210 day moving average for a "momentum" based strategy.
 Program only collects data off websites but does not execute trades, this is left to the user and their own strategy.
+
+## Requirements
+Requires Chromedriver, BeautifulSoup and Selenium.
